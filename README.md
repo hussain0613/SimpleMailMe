@@ -1,6 +1,7 @@
 # SimpleMailMe
 
-A simple mailer to integrate with web application.
+An easy and simple mailer API to integrate with web applications' contact us/me forms.
+The endpoints are descriptions are given below.
 
 ## Endpoints
 
