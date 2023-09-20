@@ -1,3 +1,3 @@
 [submodule "app/models/email"]
 	path = app/models/email
-	url = git@github.com:hussain0613/python_easy_smtp.git
+	url = https://github.com/hussain0613/python_easy_smtp.git
