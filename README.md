@@ -20,7 +20,6 @@ The endpoints are descriptions are given below.
     "message": str
 }*
 ```
-Content-Type: `application/json`
 _Note_: Body may contain additional fields
 
 #### Response
