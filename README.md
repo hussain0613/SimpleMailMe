@@ -1,15 +1,11 @@
 # SimpleMailMe
 
 An easy and simple mailer API to integrate with web applications' contact us/me forms.
-The endpoints are descriptions are given in the [endpoints.md](endpoints.md)
+The endpoints are described in the [endpoints.md](endpoints.md)
 
 
 ## Prerequisites
-- python 3 installed
-
-_Note:_ the project is developed and tested on Python3.11. \
-This project was also tested on Python3.9 successfully.
-
+- Python 3 (Python3.9+) installed
 
 ## Installation
 
