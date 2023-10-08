@@ -4,6 +4,7 @@ if __name__ == '__main__':
         "MAIL_SERVER": "localhost", # or "smtp.gmail.com" for example
         "MAIL_PORT": 465, # or 587 for example
         "MAIL_USE_TLS": False,
+        "MAIL_USE_SSL": False,
         "MAIL_USERNAME": "",
         "MAIL_PASSWORD": "",
         "MAIL_TO": [""],
